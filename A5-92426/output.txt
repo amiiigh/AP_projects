@@ -1,0 +1,14 @@
+3
+Heshmat
+Phone Num(s): 99887766
+Email(s): heshmat.topoli@ut.ac.ir
+Owed money: 10000
+Ghodrat
+Phone Num(s): 55565758 - 55565759
+Email(s): 
+Owed money: 5600
+Heshmat
+Phone Num(s): 12345678 - 99887766
+Email(s): heshmat.topoli@ut.ac.ir
+Owed money: 34000
+E is not a subset of A
